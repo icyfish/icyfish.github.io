@@ -1,0 +1,39 @@
+baseURL = "https://icyfish.github.io/"
+languageCode = "zh-CN"
+title = "Fish's Blog"
+hasCJKLanguage = true
+theme = "maupassant"
+summaryLength = 140
+paginate = 10
+disablePathToLower = true
+enableRobotsTXT = true
+
+[author]
+  name = "Fish"
+
+[params]
+  localSearch = true
+  toc = true
+  fancybox = true
+
+[[menu.main]]
+  identifier = "archives"
+  name = "归档"
+  url = "/archives/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "about"
+  name = "关于"
+  url = "/about/"
+  weight = 3
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    noClasses = false
+    tabWidth = 4
+    lineNos = true
+  [markup.tableOfContents]
+    ordered = false
+    startLevel = 1
