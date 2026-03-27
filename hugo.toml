@@ -16,6 +16,7 @@ enableRobotsTXT = true
   toc = true
   fancybox = true
   customCSS = ["custom.css"]
+  customJS = ["custom.js"]
 
 [[menu.main]]
   identifier = "archives"

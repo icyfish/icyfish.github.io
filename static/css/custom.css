@@ -1,19 +1,33 @@
+/* Hide the original left-side TOC */
 .post-toc {
-    width: 240px;
-    margin-left: -250px;
-    white-space: normal;
+    display: none !important;
 }
 
-.post-toc .post-toc-title {
-    font-size: 16px;
+/* Right sidebar TOC */
+.widget-toc {
+    font-size: 14px;
+    line-height: 1.8;
 }
 
-.post-toc .post-toc-content ul {
-    line-height: 1.6em;
+.widget-toc ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
 }
 
-@media screen and (max-width: 1100px) {
-    .post-toc {
-        display: none;
-    }
+.widget-toc ul ul {
+    padding-left: 1em;
+}
+
+.widget-toc li {
+    margin: 4px 0;
+}
+
+.widget-toc a {
+    color: #555;
+    text-decoration: none;
+}
+
+.widget-toc a:hover {
+    color: #c05b4d;
 }
