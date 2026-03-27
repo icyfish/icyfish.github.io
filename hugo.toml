@@ -15,6 +15,7 @@ enableRobotsTXT = true
   localSearch = true
   toc = true
   fancybox = true
+  customCSS = ["custom.css"]
 
 [[menu.main]]
   identifier = "archives"
