@@ -1,6 +1,6 @@
 ---
 title: "页面 SEO：如何同时为搜索引擎和读者优化"
-date: 2026-03-28T12:00:00+08:00
+date: 2026-03-27
 tags: ["SEO"]
 categories: ["翻译"]
 toc: true

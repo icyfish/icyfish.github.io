@@ -1,6 +1,6 @@
 ---
 title: "AI 对 SEO 意味着什么"
-date: 2026-03-28T15:00:00+08:00
+date: 2026-03-27
 tags: ["SEO", "AI"]
 categories: ["翻译"]
 toc: true
