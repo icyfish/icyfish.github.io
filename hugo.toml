@@ -37,3 +37,4 @@ enableRobotsTXT = true
   [markup.tableOfContents]
     ordered = false
     startLevel = 1
+    endLevel = 3
