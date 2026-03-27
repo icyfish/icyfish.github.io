@@ -1,9 +1,4 @@
-/* Right sidebar TOC - sticky */
-.widget-toc-wrapper {
-    position: sticky;
-    top: 20px;
-}
-
+/* Right sidebar TOC */
 .widget-toc {
     font-size: 14px;
     line-height: 1.8;
