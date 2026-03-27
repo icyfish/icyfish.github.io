@@ -1,12 +1,14 @@
-/* Hide the original left-side TOC */
-.post-toc {
-    display: none !important;
+/* Right sidebar TOC - sticky */
+.widget-toc-wrapper {
+    position: sticky;
+    top: 20px;
 }
 
-/* Right sidebar TOC */
 .widget-toc {
     font-size: 14px;
     line-height: 1.8;
+    max-height: 70vh;
+    overflow-y: auto;
 }
 
 .widget-toc ul {

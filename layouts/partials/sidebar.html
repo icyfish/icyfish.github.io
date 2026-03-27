@@ -1,11 +1,13 @@
 <div id="secondary">
     {{ if and .IsPage (or .Params.toc (and .Site.Params.toc (ne .Params.toc false))) }}
+    <div class="widget-toc-wrapper">
     <section class="widget">
         <h3 class="widget-title">目录</h3>
         <div class="widget-toc">
             {{ .TableOfContents }}
         </div>
     </section>
+    </div>
     {{ end }}
 
     <section class="widget">
