@@ -1,5 +1,5 @@
 ---
-title: "页面 SEO：如何同时为搜索引擎和读者优化"
+title: "SEO 指南（五）：页面 SEO"
 date: 2026-03-27
 tags: ["SEO"]
 categories: ["翻译"]

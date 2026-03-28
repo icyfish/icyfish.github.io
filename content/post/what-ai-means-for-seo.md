@@ -1,5 +1,5 @@
 ---
-title: "AI 对 SEO 意味着什么"
+title: "SEO 指南（八）：AI 对 SEO 意味着什么"
 date: 2026-03-27
 tags: ["SEO", "AI"]
 categories: ["翻译"]

@@ -1,5 +1,5 @@
 ---
-title: "技术 SEO：新手入门指南"
+title: "SEO 指南（七）：技术 SEO"
 date: 2026-03-27
 tags: ["SEO"]
 categories: ["翻译"]

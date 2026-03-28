@@ -1,5 +1,5 @@
 ---
-title: "SEO 内容：新手入门指南"
+title: "SEO 指南（四）：SEO 内容"
 date: 2026-03-27
 tags: ["SEO"]
 categories: ["翻译"]
